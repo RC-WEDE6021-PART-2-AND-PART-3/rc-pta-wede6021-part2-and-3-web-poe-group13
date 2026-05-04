@@ -1,0 +1,52 @@
+# clothesData.txt - Clothing items data for Past Times Clothing Store
+# Format: title,description,price,image_url,category_id,is_on_sale
+
+# Women's Clothes (category_id = 1)
+Elegant Dress,Beautiful black dress,170.00,images/women/dress1.png,1,0
+Handbag,Stylish purple handbag,450.00,images/women/bag1.png,1,0
+Pearl Necklace,Classic pearl necklace,749.00,images/women/necklace1.png,1,0
+Blue Necklace,Elegant blue necklace,840.00,images/women/necklace2.png,1,0
+Yellow Dress,Summer yellow dress,220.00,images/women/dress2.png,1,0
+Purple Dress,Evening purple dress,371.99,images/women/dress3.png,1,0
+Blue Jumpsuit,Casual blue jumpsuit,550.00,images/women/jumpsuit1.png,1,0
+High Heels,Classic high heels,450.00,images/women/heels1.png,1,0
+White Skirt,Casual white skirt,340.00,images/women/skirt1.png,1,0
+Blue Boots,Stylish blue boots,400.00,images/women/boots1.png,1,0
+White Boots,Elegant white boots,630.00,images/women/boots2.png,1,0
+Gold Necklace,Luxury gold necklace,890.00,images/women/necklace3.png,1,0
+
+# Men's Clothes (category_id = 2)
+Blue T-Shirt,Casual blue t-shirt,170.00,images/men/tshirt1.png,2,0
+Green T-Shirt,Sports green t-shirt,350.00,images/men/tshirt2.png,2,0
+Black Watch,Classic black watch,749.00,images/men/watch1.png,2,0
+Hat,Stylish hat,345.00,images/men/hat1.png,2,0
+Man U Kit Shirt,Manchester United jersey,540.99,images/men/jersey1.png,2,1
+White Shirt,Formal white shirt,371.99,images/men/shirt1.png,2,0
+Blue Jeans,Classic blue jeans,550.00,images/men/jeans1.png,2,0
+Silver Watch,Luxury silver watch,1950.00,images/men/watch2.png,2,0
+Grey Pants,Formal grey pants,340.00,images/men/pants1.png,2,0
+Blue Shorts,Summer blue shorts,400.00,images/men/shorts1.png,2,0
+Purple Shorts,Casual purple shorts,330.00,images/men/shorts2.png,2,0
+Adidas Slides,Comfortable Adidas slides,720.99,images/men/slides1.png,2,1
+
+# Girls' Clothes (category_id = 4)
+Pink Dress,Cute pink dress,170.00,images/children/girls/dress1.png,4,0
+Ballet Shoes,Ballet dancing shoes,350.00,images/children/girls/shoes1.png,4,0
+Red Bow,Hair bow accessory,220.00,images/children/girls/bow1.png,4,0
+Blue Bow,Hair bow accessory,371.99,images/children/girls/bow2.png,4,0
+Red Shoes,Cute red shoes,340.00,images/children/girls/shoes2.png,4,0
+Pink Bag,Small pink handbag,400.00,images/children/girls/bag1.png,4,0
+
+# Boys' Clothes (category_id = 5)
+Blue Shorts,Casual blue shorts,749.00,images/children/boys/shorts1.png,5,0
+Green Shorts,Sports green shorts,345.00,images/children/boys/shorts2.png,5,0
+White Shirt,Formal white shirt,550.00,images/children/boys/shirt1.png,5,0
+Red T-Shirt,Casual red t-shirt,1950.00,images/children/boys/tshirt1.png,5,0
+Blue Cap,Sports blue cap,330.00,images/children/boys/cap1.png,5,0
+Green T-Shirt,Sports green t-shirt,890.00,images/children/boys/tshirt2.png,5,0
+
+# Sale Items
+H&M Dress,Elegant black H&M dress,457.99,images/sale/dress1.png,1,1
+Sale T-Shirt,T-shirt on sale,55.00,images/sale/tshirt1.png,2,1
+Sale Romper,Baby romper on sale,124.00,images/sale/romper1.png,4,1
+Sale Heels,High heels on sale,550.00,images/sale/heels1.png,1,1
