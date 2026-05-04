@@ -88,6 +88,7 @@ if ($result && $result->num_rows > 0) {
             exciting to discover every time you visit.
         </p>
     </div>
+    hkhgkughigoguygytfyfuygiyfy
 
 <?php require_once 'includes/footer.php'; ?>
 </body>
