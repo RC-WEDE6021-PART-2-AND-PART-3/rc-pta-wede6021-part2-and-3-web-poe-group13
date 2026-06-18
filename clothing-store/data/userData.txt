@@ -1,0 +1,10 @@
+# userData.txt - Sample user data for Past Times Clothing Store
+# Format: username,email,password_hash,is_verified
+# Password for all users is: password123
+# Hash generated using password_hash('password123', PASSWORD_DEFAULT)
+
+john_doe,john@example.com,$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi,1
+jane_smith,jane@example.com,$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi,1
+mike_wilson,mike@example.com,$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi,0
+sarah_jones,sarah@example.com,$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi,1
+david_brown,david@example.com,$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi,1
