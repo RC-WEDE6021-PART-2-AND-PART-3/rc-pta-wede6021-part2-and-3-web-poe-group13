@@ -22,7 +22,7 @@ if ($result && $result->num_rows > 0) {
     <link rel="stylesheet" href="css/styles.css"> <!-- optional stylesheet -->
 </head>
 
-<a href="admin/login.php">Admin Login</a>
+<a href="admin/login.php">Admin Login section</a>
 
 
 <body>
@@ -88,7 +88,7 @@ if ($result && $result->num_rows > 0) {
             exciting to discover every time you visit.
         </p>
     </div>
-    hkhgkughigoguygytfyfuygiyfy
+
 
 <?php require_once 'includes/footer.php'; ?>
 </body>
